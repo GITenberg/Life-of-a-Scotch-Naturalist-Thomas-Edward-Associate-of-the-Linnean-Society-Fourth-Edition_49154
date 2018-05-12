@@ -1,4 +1,8 @@
 _repo: Life-of-a-Scotch-Naturalist-Thomas-Edward-Associate-of-the-Linnean-Society-Fourth-Edition_49154
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49154-h/images/cover.jpg
 creator:
   author:
     agent_name: Smiles, Samuel
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/224
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49154#Life-of-a-Scotch-Naturalist-Thomas-Edward-Associate-of-the-Linnean-Society-Fourth-Edition
 gutenberg_issued: '2015-06-07'
 gutenberg_type: Text
 identifiers:
